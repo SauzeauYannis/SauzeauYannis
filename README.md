@@ -23,6 +23,3 @@
     <img src="https://github-profile-trophy.vercel.app/?username=sauzeauyannis&theme=onedark" alt="sauzeauyannis" />
   </a> 
 </p>
-
-## Visitors
-![visitors](https://visitor-badge.glitch.me/badge?page_id=SauzeauYannis)
