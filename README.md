@@ -23,3 +23,17 @@
     <img src="https://github-profile-trophy.vercel.app/?username=sauzeauyannis&theme=onedark" alt="sauzeauyannis" />
   </a> 
 </p>
+
+## Website
+
+<p align="center"> 
+  <a href="https://www.codewars.com/users/SauzeauYannis">
+    <img src="https://www.codewars.com/users/SauzeauYannis/badges/large" alt="codewars" />
+  </a> 
+</p>
+
+<p align="center"> 
+  <a href="https://www.linkedin.com/in/yannis-sauzeau/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+  </a> 
+</p>
