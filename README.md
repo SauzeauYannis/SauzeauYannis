@@ -20,7 +20,7 @@
 </p>
 
 <p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
+  <a href="https://github-profile-trophy.vercel.app/?username=sauzeauyannis&theme=onedark">
     <img src="https://github-profile-trophy.vercel.app/?username=sauzeauyannis&theme=onedark" alt="sauzeauyannis" />
   </a> 
 </p>
