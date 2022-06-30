@@ -8,7 +8,7 @@
   </a> 
 </p>
 
-## Website
+## Websites
 
 <p align="center"> 
   <a href="https://www.codewars.com/users/SauzeauYannis">
