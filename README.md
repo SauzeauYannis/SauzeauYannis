@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yannis Sauzeau</h1>
-<h3 align="center">A passionate Mobile App Developer from France</h3>
+<h3 align="center">A Student in Computer Science MSc at University of Poitiers</h3>
 
-- 🌱 I’m currently doing an internship at **PRIP laboratory in Vienna**
+- 🌱 I’m currently doing an internship at **PRIP Laboratory at Vienna University of Technology**
 
 - 💬 Ask me about **Mobile App Development**
 
