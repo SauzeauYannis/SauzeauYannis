@@ -1,7 +1,10 @@
-<h1 align="center">Hi 👋, I'm Yannis Sauzeau</h1>
-<h3 align="center">A Student in Computer Science MSc at University of Poitiers</h3>
+# Hello world!
 
-- 🌱 I’m currently doing my last year of MSc in a work-study program that I am doing in the company **Serli** as a design engineer
+## I'm Yannis Sauzeau
+
+### A Student in [Computer Science MSc](https://formations.univ-poitiers.fr/fr/index/autre-diplome-niveau-master-AM/autre-diplome-niveau-master-AM/cmi-informatique-JD2XQGVY.html) at University of Poitiers
+
+- 🌱 I’m currently doing my last year of MSc in a work-study program that I am doing in the company [Serli](https://github.com/Serli) as a design engineer
 
 - 💬 Ask me about **Mobile App Development**
 
